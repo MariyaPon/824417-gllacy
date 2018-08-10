@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Мария Пономаренко](https://up.htmlacademy.ru/htmlcss/22/user/824417).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Островский](https://htmlacademy.ru/profile/grandmaus)
 
 ---
 
